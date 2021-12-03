@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @temismink
-- 👀 I’m interested in machine learning, neural networks, and data science
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on cool projects that apply ML to real-world problems
 - 📫 How to reach me: sminkovtemis@gmail.com
 
 <!---
